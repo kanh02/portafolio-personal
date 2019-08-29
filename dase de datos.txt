@@ -1,0 +1,4 @@
+instalar mongodb, y crear una coleccion llamada portafolio,
+crear carpeta data en archivos de programa y dentro una llamda "db"
+
+ejecutar el .exe y el demmonio y sobre la carpeta backend lanzar el npm server
